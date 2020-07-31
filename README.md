@@ -1,0 +1,2 @@
+# Happy-OR-Sad-Face-Recognizer
+->This is a image classifier build using keras and Tensor flow in Python. ->It uses a small data set of 80 images consisted of 2 classes; Happy and Sad faces. ->It uses Convolutional neural networks for improving performance of the model and it has 99.9% accuracy on training data. ->This project was developed during my period of online course regarding Tensor flow on Coursera.
